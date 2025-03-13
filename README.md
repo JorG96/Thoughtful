@@ -13,7 +13,9 @@ This project contains a function that classifies packages based on their dimensi
 ## Project structure
 
 ├── challenge.py      # Contains the main sorting function
+
 ├── test_sort.py     # Contains the test cases
+
 └── README.md        # This file
 
 ## Installation
