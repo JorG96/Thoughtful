@@ -1,5 +1,3 @@
-import pytest
-
 def sort(width: int, height: int, length: int, mass: int) -> str:
     """
     Function sorts a package based on it's dimensions( width, height, lenght)
